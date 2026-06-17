@@ -42,7 +42,7 @@ Completed as part of my ongoing journey to become a Full-Stack Developer through
 
 ## Author
 
-Genevive Griffiths
+Genevive Lingeveld
 
 Aspiring Full-Stack Developer | Lifelong Learner | Building projects one step at a time 🚀
 
